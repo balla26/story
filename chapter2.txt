@@ -1,2 +1,2 @@
-Chapter 2 box :-
-	Learning on Version-Control using GIT and the Command Line
+Chapter 2 box :
+	-->Learning on Version-Control using GIT and the Command Line
